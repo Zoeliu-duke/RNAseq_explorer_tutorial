@@ -1,15 +1,13 @@
-
-# Accesss the app: https://zoeliu-duke.github.io/RNAseqExplorer/
-
 # RNA-seq Explorer — Tutorial
 
 An interactive guide to **RNA-seq Explorer**, a single-file HTML app for bulk RNA-seq
 differential-expression analysis — QC, volcano, PCA, heatmap, pathways and TF activity,
 all in your browser, with an optional bridge to real **DESeq2** in R for publication figures.
 
-## 📖 Read the guide
+## Links
 
-**https://zoeliu-duke.github.io/RNAseq_explorer_tutorial/**
+- 📖 **Read the guide** → https://zoeliu-duke.github.io/RNAseq_explorer_tutorial/
+- ▶ **Open the app** → https://zoeliu-duke.github.io/RNAseqExplorer/
 
 ## What the tool does
 
@@ -22,8 +20,6 @@ data never leaves your machine. It works in two tiers:
 - **Real DESeq2 in R** — export a small bundle (count matrices + a ready-to-run R script),
   run genuine DESeq2 with one command, then import the results back so every figure shows
   authoritative DESeq2 numbers.
-
-> The RNA-seq Explorer application is a standalone HTML file — contact the lab for a copy.
 
 ## What the guide covers
 
